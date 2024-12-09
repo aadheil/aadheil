@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Kerala legislative assembly webcasting project<br>👯 I’m looking to collaborate on front end development<br>🌱 I’m currently learning advanced front development <br>💬 Ask me about tech related <br>⚡ Fun fact i would react if you know react .
+🔭 I’m currently working as Software Engineer at ECS Fin<br>👯 I’m looking to collaborate on front end development<br>🌱 I’m currently learning advanced front development <br>💬 Ask me about tech related <br>⚡ Fun fact i would react if you know react .
 
 
 ## 🌐 Socials:
